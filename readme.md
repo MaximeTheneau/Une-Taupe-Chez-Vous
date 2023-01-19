@@ -1,6 +1,7 @@
 # Une-Taupe-Chez-Vous   
 
-Website
+Site web vitrine réaliser pour l'entreprise Une Taupe Chez Vous.
+Réalisé avec Next.js et Symfony. Des temps de chargement rapides et une meilleure référencement pour les moteurs de recherche.
 
 Next.js - Symfony
 
