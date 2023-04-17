@@ -23,7 +23,7 @@ Next.js - Symfony
 
 ### Back
 
-- [Symfony](https://fr.reactjs.org/)
+- [Symfony](https://symfony.com/)
 
 ## Auteurs
 
